@@ -1,0 +1,17 @@
+{
+  "name": "bitcoin-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rhea Myers <rhea@myers.studio>",
+  "license": "GPLv3+",
+  "dependencies": {
+    "blockchain.info": "^2.12.1",
+    "etherscan-api": "^8.1.5",
+    "minimist": "^1.2.0",
+    "pdfkit": "^0.8.3"
+  }
+}

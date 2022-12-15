@@ -1,0 +1,29 @@
+PRINTS FOR SWISS SHOW
+=====================
+
+Kate Vass Gallery, Zurich. "Perfect and Priceless"
+
+"8bit" here is 8bit dark now!!!!
+
+btc-first-halvening-block-hash-40in-8bit-circles.pdf
+btc-first-halvening-block-header-40in-8bit-squares.pdf
+btc-first-send-satoshi-finney-tx-hash-40in-8bit-circles.pdf
+btc-first-send-satoshi-finney-tx-raw-40in-8bit-squares.pdf
+
+IMAGES FOR SERVICE
+==================
+
+ethereum-the-dao-address-hash-8bit-circles.pdf
+ethereum-the-dao-address-hash-8bit-squares.pdf
+ethereum-the-dao-creation-tx-hash-8bit-squares.pdf
+ethereum-the-dao-creation-tx-raw-8bit-squares.pdf
+ethereum-the-dao-creation-tx-raw-cga-circles.pdf
+
+
+PRINTS FOR NEW YORK
+===================
+
+Kate Vass for NY
+
+btc-genesis-block-block-hash-40in-8bit-squares.pdf
+REWORKED TO BE 36x24
